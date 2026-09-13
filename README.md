@@ -46,6 +46,7 @@ Antes de iniciar, instale no seu computador:
   cd acolhetea
   ```
 3. **Instale as dependências:**
+   Entre na pasta onde se encontra o arquivo package.json, ex: cd frontend
   ```bash
   npm install
   ```
